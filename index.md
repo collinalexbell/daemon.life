@@ -37,3 +37,19 @@ I developed a very simple robot with a single axis of rotation that can make a l
 I put that project up on [collinscybernetic.tech](http://collinscybernetic.tech) and it actually made a few dollars, just by selling open source hardware files.
 
 
+
+#### The Dragon Robot
+
+At this point, I pretty much knew what my business model would be: build a simple robot to install my AI software into and then sell the robot to tech enthusiasts who are interested in having a personal AI.
+
+I began development on my next robot.
+
+At first it was going to be a simple evolution of my swivel bot
+
+![2 Axis Bot](pics/2_axis_bot.png "2 Axis Bot")
+
+However, I ended up taking my design skills as far as I could take them and built a robotic dragon with a cellphone for the CPU and face.
+
+
+![Dragon Drawing](pics/dragon_drawing.png "Dragon Drawing")
+![Dragon Real](pics/dragon_real.jpg "Dragon Real")
