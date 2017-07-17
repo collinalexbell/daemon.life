@@ -87,5 +87,41 @@ The structure sensor costs > $300. This means that I could only market the devic
 There are several things going for this robot as a medium for distributing daemon.life to users.
 
 1. TY Beanie Babies are already a viral meme.
-2. They are cheap to get. They are much cheaper than 3d printing a robot body
+2. They are cheap to get. They are much cheaper than 3d printing a robot body.
 3. They come in several varieties. This is in line with the books that inspired this project. In "His Dark Matierals" peoples daemons are embodied in many different forms dependant on the personality of the person.
+
+
+I have not launched this product yet, but plan on doing so via a YouTube video and ,in the spirit of the 90's, an EBAY listing.
+
+
+
+## Future
+
+The short term goals of daemon.life are:
+
+1. Get simple, open source robots into the homes of users.
+2. Make sure the robots are both useful and noninvasive. The Furby is an example of what not to do here. Simple uses would be the use of the daemon as an alarm clock and as an alert system for important messages.
+
+The long term goals of daemon.life are:
+
+1. Allow the user to collect meaningfull data about their lives through robotic sensors in the daemon such as through cameras and voice.
+
+2. Allow the user to query that data using visualization tools and speech interaction.
+
+3. Boostrap the evolution of more interesting and capable open source consumer robots. 
+
+The end goal of dameon.life is:
+
+1. Evolve a daemon that can automate the basic physical needs of a person.
+2. Make sure each person globally has a daemon that is looking after their physical well being. This would effectively implement a Universal Basic Income of food for all humans on earth.
+
+## Priorities
+
+It seems inevitable that humans will become more and more tightly coupled with their algorithms. 
+
+It seems vital to me that the algorithms that are being with the user are in fact controlled by the user and not by a corporation or government. 
+
+For this reason it is important that the users:
+
+1. Own and control the data that their daemons collect.
+2. Own and control the source code and neural networks running on the daemon.
