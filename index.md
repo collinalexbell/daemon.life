@@ -53,3 +53,39 @@ However, I ended up taking my design skills as far as I could take them and buil
 
 ![Dragon Drawing](pics/dragon_drawing.png "Dragon Drawing")
 ![Dragon Real](pics/dragon_real.jpg "Dragon Real")
+
+
+#### The spider bot
+
+The dragon robot was simply too expensive. I needed something cheaper
+
+I began work on a spider robot, but it was too complex and became a dead end.
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Added a structure sensor to the spider. <a href="https://t.co/TJKRoZoDmp">pic.twitter.com/TJKRoZoDmp</a></p>&mdash; Collin Bell ⓥ/⚛/Ƀ (@SlightlyCyborg) <a href="https://twitter.com/SlightlyCyborg/status/875280630225002496">June 15, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### The IndieGoGo Launch.
+
+On July 14, 2017 I had my first significant success. I built motor mount that can move around the popular Structure Sensor on a 2d axis.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ptE-CMaljYE" frameborder="0" allowfullscreen></iframe>
+
+The launch netted me $228 in revenue, $96 of which is in donations for open sourcing the project. 
+
+2 people bought the product.
+
+Again, it was simply too expensive to build the whole product.
+
+The structure sensor costs > $300. This means that I could only market the device to people who already owned the structure sensor.
+
+#### The TY Beanie Baby Robot.
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Too damn cute <a href="https://t.co/w47LxJc6CQ">pic.twitter.com/w47LxJc6CQ</a></p>&mdash; Collin Bell ⓥ/⚛/Ƀ (@SlightlyCyborg) <a href="https://twitter.com/SlightlyCyborg/status/886793968872288260">July 17, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+There are several things going for this robot as a medium for distributing daemon.life to users.
+
+1. TY Beanie Babies are already a viral meme.
+2. They are cheap to get. They are much cheaper than 3d printing a robot body
+3. They come in several varieties. This is in line with the books that inspired this project. In "His Dark Matierals" peoples daemons are embodied in many different forms dependant on the personality of the person.
