@@ -6,6 +6,9 @@ Daemon.life's goal is to develop the algorithms that humans will integrate with 
 
 This concept of a daemon was taken from the book series His Dark Materials by Phillip Pullman
 
+## Products
+
+Check out the [Etsy](https://www.etsy.com/shop/CyberneticTech) shop for most recent robots.
 
 ## History
 
