@@ -8,8 +8,8 @@ This concept of a daemon was taken from the book series His Dark Materials by Ph
 
 ## Products
 
-[Structure Sensor motor mount](https://github.com/SlightlyCyborg/StructureSensorBot)
-Check out the [Etsy](https://www.etsy.com/shop/CyberneticTech) shop for most recent robots.
+- [Structure Sensor motor mount](https://github.com/SlightlyCyborg/StructureSensorBot)
+- Check out the [Etsy](https://www.etsy.com/shop/CyberneticTech) shop for most recent robots.
 
 ## History
 
