@@ -1,3 +1,6 @@
+## Mission Statement
+Build robots & AI that will make every human as wealthy as a modern day billionaire while leaving them free to be as fulfilled and connected with nature as Buddha himself.
+
 ## Current daemon.life sites
 - [Elliott.daemon.life](http://elliott.daemon.life)
 - [Molyneux.daemon.life](http://molyneux.daemon.life)
