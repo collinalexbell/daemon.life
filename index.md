@@ -1,3 +1,8 @@
+## Current daemon.life sites
+- [Elliot.daemon.life](http://elliot.daemon.life)
+- [Molyneux.daemon.life](http://molyneux.daemon.life)
+- [Peterson.daemon.life](http://peterson.daemon.life)
+
 ## What is daemon.life?
 
 Futurists like Ray Kurzwiel and Elon Musk predict that in the future, AI and humans will interface so seamlessly with digital computational devices that computer algorithms will feel as if they an inate part of the human mind.
