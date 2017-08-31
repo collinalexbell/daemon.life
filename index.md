@@ -1,5 +1,5 @@
 ## Current daemon.life sites
-- [Elliot.daemon.life](http://elliot.daemon.life)
+- [Elliott.daemon.life](http://elliott.daemon.life)
 - [Molyneux.daemon.life](http://molyneux.daemon.life)
 - [Peterson.daemon.life](http://peterson.daemon.life)
 
