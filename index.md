@@ -1,6 +1,10 @@
 ## Mission Statement
 Build robots & AI that will make every human as wealthy as a modern day billionaire while leaving them free to be as fulfilled and connected with nature as Buddha himself.
 
+## Product Statement
+By March 1st, 2018 I will build a production ready gardener robot named Holon & publish a book of the same name detailing the metaphysical principles and reasoning for building such a robot.
+
+
 ## Current daemon.life sites
 - [Elliott.daemon.life](http://elliott.daemon.life)
 - [Molyneux.daemon.life](http://molyneux.daemon.life)
