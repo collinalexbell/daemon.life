@@ -24,8 +24,6 @@ Eventually, the AI personality became divorced from the BB8 robot itself and the
 [![kickstarter project](pics/daemon_life_kickstarter.png "Kickstarter")](http://www.youtube.com/watch?v=4QAli8j347E)
 
 
-The kickstarter ultimately failed, but that did not matter much to me. I had resolved to build a robotics and AI company back in 2013, so now in 2016 I wasn't going to let a kickstarter failure get me down.
-
 #### The reflection period 
 
 I tried to collect my thoughts on why the kickstarter failed. At first I thought it was because I was using a lot of APIs and was not doing speech synthesis and speech recognition using my own neural nets. I had learned [neural nets in college](https://github.com/SlightlyCyborg/dart-neuralnet) and used them in small [gardening robot simulations](https://github.com/SlightlyCyborg/gardening_robot), but those used simple fully connected archetectures and standard backpropgation. I sat down and went though Stanfords Conv Net course and [did most of their assignments](https://github.com/SlightlyCyborg/cs231n-assignment2) to gain a more in depth understanding of machine learning. 
@@ -40,7 +38,7 @@ I developed a very simple robot with a single axis of rotation that can make a l
 
 [![swivel](pics/swivel.png "Swivel")](https://www.youtube.com/watch?v=Oq267ltnVC8)
 
-I put that project up on [collinscybernetic.tech](http://collinscybernetic.tech) and it actually made a few dollars, just by selling open source hardware files.
+I put that project up on my website and I actually made me a few dollars, just by selling open source hardware files.
 
 
 
