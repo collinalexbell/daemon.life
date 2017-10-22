@@ -12,7 +12,7 @@ This concept of a daemon was taken from the book series His Dark Materials by Ph
 
 The concept of daemon.life started when I began building an AI personality for my BB8 robot. 
 
-![bb8](pic/bb8.jpeg "bb8")
+![bb8](pics/bb8.jpeg "bb8")
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
