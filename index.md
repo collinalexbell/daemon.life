@@ -1,14 +1,3 @@
-## Mission Statement
-Build robots & AI that will make every human as wealthy as a modern day billionaire while leaving people free to be as fulfilled and connected with nature as Buddha himself.
-
-## Product Statement
-By March 1st, 2018 I will build a production ready gardener robot named Holon & publish a book of the same name detailing the metaphysical principles and reasoning for building such a robot.
-
-## Current daemon.life sites
-- [Elliott.daemon.life](http://elliott.daemon.life)
-- [Molyneux.daemon.life](http://molyneux.daemon.life)
-- [Peterson.daemon.life](http://peterson.daemon.life)
-
 ## What is daemon.life?
 
 Futurists like Ray Kurzwiel and Elon Musk predict that in the future, AI and humans will interface so seamlessly with digital computational devices that computer algorithms will feel as if they an inate part of the human mind.
@@ -17,18 +6,15 @@ Daemon.life's goal is to develop the algorithms that humans will integrate with 
 
 This concept of a daemon was taken from the book series His Dark Materials by Phillip Pullman
 
-## Products
-
-- [Structure Sensor motor mount](https://github.com/SlightlyCyborg/StructureSensorBot)
-- Check out the [Etsy](https://www.etsy.com/shop/CyberneticTech) shop for most recent robots.
-
-## History
+## Product/Project History
 
 #### The kickstarter
 
-The concept of daemon.life started when I began building an AI personality for my BB8 robot. Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own.
+The concept of daemon.life started when I began building an AI personality for my BB8 robot. 
 
-I started hacking on daemon.life in Aug 2016 and by Dec 2016, I had launched a kickstarter for the project.
+[bb8](pic/bb8.png)
+
+Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
 [![kickstarter project](pics/daemon_life_kickstarter.png "Kickstarter")](http://www.youtube.com/watch?v=4QAli8j347E)
 
@@ -111,34 +97,14 @@ There are several things going for this robot as a medium for distributing daemo
 I have not launched this product yet, but plan on doing so via a YouTube video and ,in the spirit of the 90's, an EBAY listing.
 
 
+## Current Work
+
+I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian, the founder of reddit. I promised to do 80 hours a work for him as a product manager for the next 6 months in order to learn from his bunsiness experience and to perfect my work discipline. I am developing a laser inspection system of fiber producing machinery.
 
 ## Future
 
-The short term goals of daemon.life are:
+The future of my goals are as follows:
+- Spend a few years augmenting my mind with code and books. The closer I can get to the code and computer the better. I am willing to wear an EEG and an augmented reality device full time.
+- Use my augmented mind to start a gardening robotics company to work towards 0 marginal cost food production.
+- Go on the 2024 flight to Mars and bring my automated gardening business with me to help supply food for the settlement.
 
-1. Get simple, open source robots into the homes of users.
-2. Make sure the robots are both useful and noninvasive. The Furby is an example of what not to do here. Simple uses would be the use of the daemon as an alarm clock and as an alert system for important messages.
-
-The long term goals of daemon.life are:
-
-1. Allow the user to collect meaningfull data about their lives through robotic sensors in the daemon such as through cameras and voice.
-
-2. Allow the user to query that data using visualization tools and speech interaction.
-
-3. Boostrap the evolution of more interesting and capable open source consumer robots. 
-
-The end goal of dameon.life is:
-
-1. Evolve a daemon that can automate the basic physical needs of a person.
-2. Make sure each person globally has a daemon that is looking after their physical well being. This would effectively implement a Universal Basic Income of food for all humans on earth.
-
-## Priorities
-
-It seems inevitable that humans will become more and more tightly coupled with their algorithms. 
-
-It seems vital to me that the algorithms that are being with the user are in fact controlled by the user and not by a corporation or government. 
-
-For this reason it is important that the users:
-
-1. Own and control the data that their daemons collect.
-2. Own and control the source code and neural networks running on the daemon.
