@@ -8,11 +8,12 @@ This concept of a daemon was taken from the book series His Dark Materials by Ph
 
 ## Product/Project History
 
-#### The kickstarter
 
 Before daemon.life, I built several robots including this incomplete humanoid model
 
 [![humanoid model](pics/humanoid_demo.png "Humanoid")](https://www.youtube.com/watch?time_continue=17&v=7w53_cnqniA)
+
+#### The kickstarter
 
 The concept of daemon.life started when I began building an AI personality for my BB8 robot. 
 
