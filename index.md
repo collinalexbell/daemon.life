@@ -102,7 +102,7 @@ I have not launched this product yet, but plan on doing so via a YouTube video a
 
 ## Current Work
 
-I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian, the founder of reddit. I promised to do 80 hours a work for him as a product manager for the next 6 months in order to learn from his bunsiness experience and to perfect my work discipline. I am developing a laser inspection system of fiber producing machinery.
+I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian (the founder of reddit). I promised to do 80 hours a work for him as a product manager for the next 6 months in order to learn from his bunsiness experience and to perfect my work discipline. I am developing a laser inspection system of fiber producing machinery.
 
 ## Future
 
