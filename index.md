@@ -31,7 +31,7 @@ The concept of edencybernetics.life started when I began building an AI personal
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
-[![kickstarter project](pics/edencybernetics.life_kickstarter.png "Kickstarter")](http://www.youtube.com/watch?v=4QAli8j347E)
+[![kickstarter project](pics/edencybernetics.life_kickstarter.png "Kickstarter")](https://www.kickstarter.com/projects/748404476/import-soul-an-opensource-ai-dameon?ref=user_menu)
 
 
 #### The reflection period 
