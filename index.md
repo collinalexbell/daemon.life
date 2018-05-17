@@ -1,4 +1,4 @@
-## What is daemon.life?
+## What is edencybernetics.life?
 
 Futurists like Ray Kurzwiel and Elon Musk predict that in the future, AI and humans will interface so seamlessly with digital computational devices that computer algorithms will feel as if they an inate part of the human mind.
 
@@ -9,19 +9,19 @@ This concept of a daemon was taken from the book series His Dark Materials by Ph
 ## Product/Project History
 
 
-Before daemon.life, I built several robots including this incomplete humanoid model
+Before edencybernetics.life, I built several robots including this incomplete humanoid model
 
 [![humanoid model](pics/humanoid_demo.png "Humanoid")](https://www.youtube.com/watch?time_continue=17&v=7w53_cnqniA)
 
 #### The kickstarter
 
-The concept of daemon.life started when I began building an AI personality for my BB8 robot. 
+The concept of edencybernetics.life started when I began building an AI personality for my BB8 robot. 
 
 ![bb8](pics/bb8.jpeg "bb8")
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
-[![kickstarter project](pics/daemon_life_kickstarter.png "Kickstarter")](http://www.youtube.com/watch?v=4QAli8j347E)
+[![kickstarter project](pics/edencybernetics.life_kickstarter.png "Kickstarter")](http://www.youtube.com/watch?v=4QAli8j347E)
 
 
 #### The reflection period 
@@ -90,7 +90,7 @@ The structure sensor costs > $300. This means that I could only market the devic
 This robot got >3000 upvotes on [reddit](https://www.reddit.com/r/shittyrobots/comments/6pokmo/i_turned_a_1997_ty_beanie_baby_into_a_shitty_robot/)
 
 
-There are several things going for this robot as a medium for distributing daemon.life to users.
+There are several things going for this robot as a medium for distributing edencybernetics.life to users.
 
 1. TY Beanie Babies are already a viral meme.
 2. They are cheap to get. They are much cheaper than 3d printing a robot body.
