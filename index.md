@@ -3,12 +3,18 @@
 [Collin Bell](https://twitter.com/SlightlyCyborg) owns a corporation named [eden](https://en.wikipedia.org/wiki/Garden_of_Eden).[cybernetics](https://en.wikipedia.org/wiki/Cybernetics). The main goal of eden.cybernetics is to build miniuature gardens of eden all over the United States and [beyond](https://en.wikipedia.org/wiki/Outer_space) using [permaculture](https://en.wikipedia.org/wiki/Permaculture) techniques that are mastered by [robots](https://en.wikipedia.org/wiki/Robotics). Over Collin's travels, he has inadvertantly invented technologies other than robots as sidquest missions to complement eden.cybernetics main mission of eliminating poverty and hunger using using robots. 
 
 
-## Future
-
-The future of my goals are as follows:
+## Future Intentions
 
 * Augment myself using AI
 * Augment Earth with gardens worked by robots.
+
+## Current Actions & Work
+
+* API building for [resourceio](http://resourceio.com) @ x*10^3$ : x<9
+* AI building for [jordanbpeterson](https://twitter.com/jordanbpeterson) @ x*10^3$ : x<9
+
+
+
 
 ## Product/Project History
 
@@ -108,10 +114,5 @@ I have not launched this product yet, but plan on doing so via a YouTube video a
 I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian (the founder of reddit). I promised to do 80 hours/week of work for him as a product manager for the next 6 months. I am developing a laser inspection & microscope inspection system of synthetic fiber producing machinery.
 
 
-
-## Current Work
-
-* API building for [resourceio](http://resourceio.com)
-* AI building for [jordanbpeterson](https://twitter.com/jordanbpeterson)
 
 
