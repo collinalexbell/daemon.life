@@ -103,6 +103,10 @@ I recently moved to NYC without a plan, except to meet interesting people. I pos
 
 ## Current Work
 
+* API building for [resourceio](http://resourceio.com)
+* AI building for [jordanbpeterson](https://twitter.com/jordanbpeterson)
+
+
 ## Future
 
 The future of my goals are as follows:
