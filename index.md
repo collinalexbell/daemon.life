@@ -96,9 +96,12 @@ There are several things going for this robot as a medium for distributing edenc
 I have not launched this product yet, but plan on doing so via a YouTube video and ,in the spirit of the 90's, an EBAY listing.
 
 
-## Current Work
-
+## NYC!!! "Are there any ivestors here" as Collin shouts on the Brooklyn Bridge!
 I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian (the founder of reddit). I promised to do 80 hours/week of work for him as a product manager for the next 6 months. I am developing a laser inspection & microscope inspection system of synthetic fiber producing machinery.
+
+
+
+## Current Work
 
 ## Future
 
