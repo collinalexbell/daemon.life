@@ -1,6 +1,6 @@
 ## What is edencybernetics.life?
 
-[Collin Bell](https://twitter.com/SlightlyCyborg) owns a corporation named [eden](https://en.wikipedia.org/wiki/Garden_of_Eden).[cybernetics](https://en.wikipedia.org/wiki/Cybernetics). The main goal of eden.cybernetics is to build miniuature gardens of eden all over the United States and beyond using [permaculture](https://en.wikipedia.org/wiki/Permaculture) techniques that are mastered by [robots](https://en.wikipedia.org/wiki/Robotics)
+[Collin Bell](https://twitter.com/SlightlyCyborg) owns a corporation named [eden](https://en.wikipedia.org/wiki/Garden_of_Eden).[cybernetics](https://en.wikipedia.org/wiki/Cybernetics). The main goal of eden.cybernetics is to build miniuature gardens of eden all over the United States and [beyond](https://en.wikipedia.org/wiki/Outer_space) using [permaculture](https://en.wikipedia.org/wiki/Permaculture) techniques that are mastered by [robots](https://en.wikipedia.org/wiki/Robotics)
 
 ## Product/Project History
 
