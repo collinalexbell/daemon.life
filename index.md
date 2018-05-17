@@ -1,10 +1,6 @@
 ## What is edencybernetics.life?
 
-Futurists like Ray Kurzwiel and Elon Musk predict that in the future, AI and humans will interface so seamlessly with digital computational devices that computer algorithms will feel as if they an inate part of the human mind.
-
-Daemon.life's goal is to develop the algorithms that humans will integrate with and to embody those algorithms within a robotic avitar.
-
-This concept of a daemon was taken from the book series His Dark Materials by Phillip Pullman
+[Collin Bell](https://twitter.com/SlightlyCyborg) owns a corporation named [eden](https://en.wikipedia.org/wiki/Garden_of_Eden).[cybernetics](https://en.wikipedia.org/wiki/Cybernetics). The main goal of eden.cybernetics is to build miniuature garden of edens all over the United States and beyond using [permaculture](https://en.wikipedia.org/wiki/Permaculture) techniques that are mastered by [robots](https://en.wikipedia.org/wiki/Robotics)
 
 ## Product/Project History
 
