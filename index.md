@@ -27,13 +27,13 @@ I wanted to build a BB8 for the first new Starwars Launch. The build was behind 
 
 ![bb8](pics/bb8.jpeg "bb8")
 
-#### AI Daemon (Summer 2016)
+#### AI Daemon (Summer/Fall 2016)
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
 [![kickstarter project](pics/daemon_life_kickstarter.png "Kickstarter")](https://www.kickstarter.com/projects/748404476/import-soul-an-opensource-ai-dameon?ref=user_menu)
 
-#### A Follow Me Camera Bot. 
+#### A Follow Me Camera Bot (Spring 2017)
 
 In the end, I ultimately decided that the reason my kickstarter failed was not that I didn't have enough home made deeplearning, but was rather because I did not embody the AI into a physical product. If I was going to develop open source AI, I needed to put it into a physical computing device so that I have a package to sell it in. 
 
@@ -45,8 +45,7 @@ I developed a very simple robot with a single axis of rotation that can make a l
 I put that project up on my website and I actually made me a few dollars, just by selling open source hardware files.
 
 
-
-#### The Dragon Robot
+#### The Dragon Robot (Summer 2017)
 
 At first it was going to be a simple evolution of my swivel bot
 
@@ -59,14 +58,14 @@ However, I ended up taking my design skills as far as I could take them and buil
 ![Dragon Real](pics/dragon_real.jpg "Dragon Real")
 
 
-#### The spider bot
+#### The spider bot (Summer 2017)
 
 I began work on a spider robot, but it was too complex and became a dead end.
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Added a structure sensor to the spider. <a href="https://t.co/TJKRoZoDmp">pic.twitter.com/TJKRoZoDmp</a></p>&mdash; Collin Bell ⓥ/⚛/Ƀ (@SlightlyCyborg) <a href="https://twitter.com/SlightlyCyborg/status/875280630225002496">June 15, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### The IndieGoGo Launch.
+#### The IndieGoGo Launch. (Summer 2017)
 
 On July 14, 2017 I had my first significant success. I built motor mount that can move around the popular Structure Sensor on a 2d axis.
 
@@ -80,24 +79,11 @@ Again, it was simply too expensive to build the whole product.
 
 The structure sensor costs > $300. This means that I could only market the device to people who already owned the structure sensor.
 
-#### The TY Beanie Baby Robot.
+#### The TY Beanie Baby Robot. (Summer 2017)
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Too damn cute <a href="https://t.co/w47LxJc6CQ">pic.twitter.com/w47LxJc6CQ</a></p>&mdash; Collin Bell ⓥ/⚛/Ƀ (@SlightlyCyborg) <a href="https://twitter.com/SlightlyCyborg/status/886793968872288260">July 17, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This robot got >3000 upvotes on [reddit](https://www.reddit.com/r/shittyrobots/comments/6pokmo/i_turned_a_1997_ty_beanie_baby_into_a_shitty_robot/)
 
-
-There are several things going for this robot as a medium for distributing edencybernetics.life to users.
-
-1. TY Beanie Babies are already a viral meme.
-2. They are cheap to get. They are much cheaper than 3d printing a robot body.
-3. They come in several varieties. This is in line with the books that inspired this project. In "His Dark Matierals" peoples daemons are embodied in many different forms dependant on the personality of the person.
-
-
-I have not launched this product yet, but plan on doing so via a YouTube video and ,in the spirit of the 90's, an EBAY listing.
-
-
-## NYC!!! "Are there any ivestors here" as Collin shouts on the Brooklyn Bridge!
-I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian (the founder of reddit). I promised to do 80 hours/week of work for him as a product manager for the next 6 months. I am developing a laser inspection & microscope inspection system of synthetic fiber producing machinery.
 
