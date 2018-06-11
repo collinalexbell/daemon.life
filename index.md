@@ -47,12 +47,9 @@ I put that project up on my website and I actually made me a few dollars, just b
 
 #### The Dragon Robot (Summer 2017)
 
-At first it was going to be a simple evolution of my swivel bot
+This was an experiment to see how far I could take my design skills.
 
-![2 Axis Bot](pics/2_axis_bot.png "2 Axis Bot")
-
-However, I ended up taking my design skills as far as I could take them and built a robotic dragon with a cellphone for the CPU and face.
-
+I added a smart phone to the face and used it to get the robot to talk and control the Bluetooth motor drivers in the neck.
 
 ![Dragon Drawing](pics/dragon_drawing.png "Dragon Drawing")
 ![Dragon Real](pics/dragon_real.jpg "Dragon Real")
