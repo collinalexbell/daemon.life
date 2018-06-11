@@ -4,7 +4,7 @@ I want people to have the freedom to work on things they love and avoid things t
 
 ## So..what is edencybernetics.life?
 
-Eden Cybernetics is my attempt to procedurally generate cybernetic technology for people who want to automate the boring parts of their life and business. Acquisition of basic resources needed for survival is the first thing that must be automated for creatives to thrive.
+Eden Cybernetics is my attempt to procedurally generate custom robots for users, depending on the user's personality and business needs. These robots are called "daemons" and are inspired by the concept of a daemon in the book series "His Dark Materials." In this book series, all humans have spirit animals that change form throughout childhood and then solidify into single form as the owner's reach adulthood. It will be interesting to give my users the ability to choose and evolve their daemon much like a Pokemon and then turn it into a real robot.
 
 ## Current/Future Projects
 
@@ -26,7 +26,7 @@ Eden Cybernetics is my attempt to procedurally generate cybernetic technology fo
 
 ### BB8 (Fall 2015 - Spring 2016)
 
-I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling off. It was very educational and fun though!
+I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling of. It was very educational and fun though!
 
 ![bb8](pics/bb8.jpeg "bb8")
 
