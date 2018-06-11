@@ -1,7 +1,14 @@
-## What is edencybernetics.life?
+## Why edencybernetics.life?
 
-The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons" to improve life for earthlings (and future Martians, Elon willing).
+I want people to have the freedom to work on things they love and avoid things they hate. I think the only way to achieve this at a global scale is to use cybernetics to automate the boring jobs involved in a creative endeavor. 
 
+I think everyone in the future will be billionaires, thriving on a decentralized and automated universal basic income with the help of robots and algorithms. 
+
+It is this desire for universal financial freedom that I work on edencybernetics
+
+## So..what is edencybernetics.life?
+
+Eden Cybernetics is my attempt to procedurally generate cybernetic technology for people who want to automate the boring parts of their life and business. Acquisition of basic resources needed for survival is the first thing that must be automated for creatives to thrive.
 
 ## Current/Future Projects
 
