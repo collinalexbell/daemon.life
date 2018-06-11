@@ -35,14 +35,12 @@ Eventually, the AI personality became divorced from the BB8 robot itself and the
 
 ### A Follow Me Camera Bot (Spring 2017)
 
-In the end, I ultimately decided that the reason my kickstarter failed was not that I didn't have enough home made deeplearning, but was rather because I did not embody the AI into a physical product. If I was going to develop open source AI, I needed to put it into a physical computing device so that I have a package to sell it in. 
-
 I developed a very simple robot with a single axis of rotation that can make a laptop with a webcam follow a person when they move out of frame (left or right)
 
 
 [![swivel](pics/swivel.png "Swivel")](https://www.youtube.com/watch?v=Oq267ltnVC8)
 
-I put that project up on my website and I actually made me a few dollars, just by selling open source hardware files.
+I put that project blueprints and code up on my website and sold a few copies!
 
 
 ### The Dragon Robot (Summer 2017)
