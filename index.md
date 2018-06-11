@@ -1,6 +1,6 @@
 ## What is edencybernetics.life?
 
-The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons" to improve life for earthlings (and future Martians, Elon willing).
+The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons" to improve life for earthlings.
 
 
 ## Current/Future Projects
