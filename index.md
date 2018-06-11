@@ -1,6 +1,6 @@
 ## Why edencybernetics.life?
 
-I want people to have the freedom to work on things they love and avoid things they hate. I think the only way to achieve this at a global scale is to use cybernetics to automate the boring jobs involved in a creative endeavor. 
+I want people to have the freedom to work on things they love and avoid things they hate. I think the only way to achieve this at a global scale is to use cybernetics to automate the boring jobs involved in a creative endeavor (like feeding the artist for example). 
 
 ## So..what is edencybernetics.life?
 
