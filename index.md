@@ -13,7 +13,11 @@ The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons
 
 ## Product/Project History
 
-Before edencybernetics.life, I built several robots including this incomplete humanoid model
+#### Telepresence Bot
+
+[![Telepresence Bot](pics/terminator.png "Telepresence")](https://www.youtube.com/watch?v=x-AWPga3eMs)
+
+#### Humanoid Skeleton with Pneumatic Muscles
 
 [![humanoid model](pics/humanoid_demo.png "Humanoid")](https://www.youtube.com/watch?time_continue=17&v=7w53_cnqniA)
 
