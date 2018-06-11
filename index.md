@@ -1,23 +1,17 @@
 ## What is edencybernetics.life?
 
-[Collin Bell](https://twitter.com/SlightlyCyborg) owns a corporation named [eden](https://en.wikipedia.org/wiki/Garden_of_Eden).[cybernetics](https://en.wikipedia.org/wiki/Cybernetics). The main goal of eden.cybernetics is to build miniuature gardens of eden all over the United States and [beyond](https://en.wikipedia.org/wiki/Outer_space) using [permaculture](https://en.wikipedia.org/wiki/Permaculture) techniques that are mastered by [robots](https://en.wikipedia.org/wiki/Robotics). Over Collin's travels, he has inadvertantly invented technologies other than robots as sidquest missions to complement eden.cybernetics main mission of eliminating poverty and hunger using using robots. 
+The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons" to improve life for the humans and animals living on earth.
 
 
-## Future Intentions
+## Current/Future Projects
 
-* Augment myself using AI
-* Augment Earth with gardens worked by robots.
-
-## Current Actions & Work
-
-* API building for [resourceio](http://resourceio.com) @ x*10^3$ : x<9
-* AI building for [jordanbpeterson](https://twitter.com/jordanbpeterson) @ x*10^3$ : x<9
-
-
-
+* Augment myself using AI and teach others how to do the same.
+* Build a framework for people to easily build custom robots for themselves.
+* Improve agriculture on Earth with gardens worked by robots.
+* Start agriculture on Mars using robots
+* Build a really awesome cybernetics YouTube channel
 
 ## Product/Project History
-
 
 Before edencybernetics.life, I built several robots including this incomplete humanoid model
 
@@ -31,7 +25,7 @@ The concept of edencybernetics.life started when I began building an AI personal
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
-[![kickstarter project](pics/edencybernetics.life_kickstarter.png "Kickstarter")](https://www.kickstarter.com/projects/748404476/import-soul-an-opensource-ai-dameon?ref=user_menu)
+[![kickstarter project](pics/daemon_life_kickstarter.png "Kickstarter")](https://www.kickstarter.com/projects/748404476/import-soul-an-opensource-ai-dameon?ref=user_menu)
 
 
 #### The reflection period 
@@ -112,7 +106,4 @@ I have not launched this product yet, but plan on doing so via a YouTube video a
 
 ## NYC!!! "Are there any ivestors here" as Collin shouts on the Brooklyn Bridge!
 I recently moved to NYC without a plan, except to meet interesting people. I posted an ad on craigslist as a mechetronics engineer and found BJ Henrici who is the great uncle of Alexis Ohanian (the founder of reddit). I promised to do 80 hours/week of work for him as a product manager for the next 6 months. I am developing a laser inspection & microscope inspection system of synthetic fiber producing machinery.
-
-
-
 
