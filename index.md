@@ -2,10 +2,6 @@
 
 I want people to have the freedom to work on things they love and avoid things they hate. I think the only way to achieve this at a global scale is to use cybernetics to automate the boring jobs involved in a creative endeavor. 
 
-I think everyone in the future will be billionaires, thriving on a decentralized and automated universal basic income with the help of robots and algorithms. 
-
-It is this desire for universal financial freedom that I work on edencybernetics
-
 ## So..what is edencybernetics.life?
 
 Eden Cybernetics is my attempt to procedurally generate cybernetic technology for people who want to automate the boring parts of their life and business. Acquisition of basic resources needed for survival is the first thing that must be automated for creatives to thrive.
@@ -30,7 +26,7 @@ Eden Cybernetics is my attempt to procedurally generate cybernetic technology fo
 
 ### BB8 (Fall 2015 - Spring 2016)
 
-I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling of. It was very educational and fun though!
+I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling off. It was very educational and fun though!
 
 ![bb8](pics/bb8.jpeg "bb8")
 
