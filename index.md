@@ -1,10 +1,10 @@
 ## Why edencybernetics.life?
 
-I want people to have the freedom to work on things they love and avoid things they hate. I think the only way to achieve this at a global scale is to use cybernetics to automate the boring jobs involved in a creative endeavor (like feeding the artist for example). 
+I want to increase human potential, individuality, and harmony through the medium of cybernetics
 
 ## So..what is edencybernetics.life?
 
-Eden Cybernetics is my attempt to procedurally generate custom robots for users, depending on the user's personality and business needs. These robots are called "daemons" and are inspired by the concept of a daemon in the book series "His Dark Materials." In this book series, all humans have a spirit animal that changes form throughout childhood and then solidify into single form as the owners reach adulthood. It will be interesting to give my users the ability to choose and evolve their daemon much like a Pokemon and then turn it into a real robot.
+Basically, I build robots that kinda suck in an attempt to evolve a robot that is actually good! Eventually I want robots that can garden for people, which is why eden is in the name.
 
 ## Current/Future Projects
 
