@@ -23,7 +23,7 @@ The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons
 
 ### BB8 (Fall 2015 - Spring 2016)
 
-I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling of. It was very educational and fun though!
+I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling off. It was very educational and fun though!
 
 ![bb8](pics/bb8.jpeg "bb8")
 
