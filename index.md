@@ -62,7 +62,7 @@ I began work on a spider robot, but it was too complex and became a dead end.
 
 ### The IndieGoGo Launch. (Summer 2017)
 
-On July 14, 2017 I had my first significant success. I built motor mount that can move around the popular Structure Sensor on a 2d axis.
+On July 14, 2017 I had my first significant entrepreneurial success. I built motor mount that can move around the popular Structure Sensor on a 2d axis.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ptE-CMaljYE" frameborder="0" allowfullscreen></iframe>
 
