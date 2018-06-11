@@ -4,7 +4,7 @@ I want people to have the freedom to work on things they love and avoid things t
 
 ## So..what is edencybernetics.life?
 
-Eden Cybernetics is my attempt to procedurally generate custom robots for users, depending on the user's personality and business needs. These robots are called "daemons" and are inspired by the concept of a daemon in the book series "His Dark Materials." In this book series, all humans have spirit animals that change form throughout childhood and then solidify into single form as the owner's reach adulthood. It will be interesting to give my users the ability to choose and evolve their daemon much like a Pokemon and then turn it into a real robot.
+Eden Cybernetics is my attempt to procedurally generate custom robots for users, depending on the user's personality and business needs. These robots are called "daemons" and are inspired by the concept of a daemon in the book series "His Dark Materials." In this book series, all humans have spirit animals that change form throughout childhood and then solidify into single form as the owners reach adulthood. It will be interesting to give my users the ability to choose and evolve their daemon much like a Pokemon and then turn it into a real robot.
 
 ## Current/Future Projects
 
