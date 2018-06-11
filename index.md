@@ -21,11 +21,13 @@ The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons
 
 [![humanoid model](pics/humanoid_demo.png "Humanoid")](https://www.youtube.com/watch?time_continue=17&v=7w53_cnqniA)
 
-#### The kickstarter
+#### BB8
 
-The concept of edencybernetics.life started when I began building an AI personality for my BB8 robot. 
+I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling of. It was very educational and fun though!
 
 ![bb8](pics/bb8.jpeg "bb8")
+
+#### AI Daemon
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
