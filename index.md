@@ -13,33 +13,27 @@ The main goal of Eden Cybernetics is to use cybernetic organisms I call "daemons
 
 ## Product/Project History
 
-#### Telepresence Bot
+#### Telepresence Bot (Fall 2014)
 
 [![Telepresence Bot](pics/terminator.png "Telepresence")](https://www.youtube.com/watch?v=x-AWPga3eMs)
 
-#### Humanoid Skeleton with Pneumatic Muscles
+#### Humanoid Skeleton with Pneumatic Muscles (Spring 2015)
 
 [![humanoid model](pics/humanoid_demo.png "Humanoid")](https://www.youtube.com/watch?time_continue=17&v=7w53_cnqniA)
 
-#### BB8
+#### BB8 (Fall 2015 - Spring 2016)
 
 I wanted to build a BB8 for the first new Starwars Launch. The build was behind schedule, over budget, and the head kept falling of. It was very educational and fun though!
 
 ![bb8](pics/bb8.jpeg "bb8")
 
-#### AI Daemon
+#### AI Daemon (Summer 2016)
 
 Eventually, the AI personality became divorced from the BB8 robot itself and the project took on a life of its own and I had launched a kickstarter for the project.
 
 [![kickstarter project](pics/daemon_life_kickstarter.png "Kickstarter")](https://www.kickstarter.com/projects/748404476/import-soul-an-opensource-ai-dameon?ref=user_menu)
 
-
-#### The reflection period 
-
-I tried to collect my thoughts on why the kickstarter failed. At first I thought it was because I was using a lot of APIs and was not doing speech synthesis and speech recognition using my own neural nets. I had learned [neural nets in college](https://github.com/SlightlyCyborg/dart-neuralnet) and used them in small [gardening robot simulations](https://github.com/SlightlyCyborg/gardening_robot), but those used simple fully connected archetectures and standard backpropgation. I sat down and went though Stanfords Conv Net course and [did most of their assignments](https://github.com/SlightlyCyborg/cs231n-assignment2) to gain a more in depth understanding of machine learning. 
-
-
-#### Small product launch
+#### A Follow Me Camera Bot. 
 
 In the end, I ultimately decided that the reason my kickstarter failed was not that I didn't have enough home made deeplearning, but was rather because I did not embody the AI into a physical product. If I was going to develop open source AI, I needed to put it into a physical computing device so that I have a package to sell it in. 
 
@@ -54,10 +48,6 @@ I put that project up on my website and I actually made me a few dollars, just b
 
 #### The Dragon Robot
 
-At this point, I pretty much knew what my business model would be: build a simple robot to install my AI software into and then sell the robot to tech enthusiasts who are interested in having a personal AI.
-
-I began development on my next robot.
-
 At first it was going to be a simple evolution of my swivel bot
 
 ![2 Axis Bot](pics/2_axis_bot.png "2 Axis Bot")
@@ -70,8 +60,6 @@ However, I ended up taking my design skills as far as I could take them and buil
 
 
 #### The spider bot
-
-The dragon robot was simply too expensive. I needed something cheaper
 
 I began work on a spider robot, but it was too complex and became a dead end.
 
