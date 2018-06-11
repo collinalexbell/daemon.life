@@ -81,3 +81,6 @@ The structure sensor costs > $300. This means that I could only market the devic
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## Interested in a mechatronic/robotics build?
+
+Hire me by sending an email to collinalexbell@[googles mail service]
